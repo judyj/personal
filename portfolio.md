@@ -48,7 +48,6 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * TechGirlz - Organized and taught online security class 17 April 2020
 * TechGirlz - Assisted 9 May 2020
 * TechGirlz - Organized and taught online security class 12 June 20
-* [TechGirlz Spotlight May 2020](https://www.techgirlz.org/volunteer-spotlight-judy-johnson/)
 
 
 ## Events
@@ -71,6 +70,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * [Women in Engineering-Interview with Senior Engineer Judy Johnson](https://www.onyxpoint.com/blog/women-in-engineering-interview-judy/)
 * [How #GirlsDoTech](https://www.onyxpoint.com/blog/howgirlsdotech/)
 
+* [TechGirlz Spotlight May 2020](https://www.techgirlz.org/volunteer-spotlight-judy-johnson/)
 
 ## Random Volunteer items:
 * Lockerman Bundy
