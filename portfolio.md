@@ -15,14 +15,14 @@ Judy has been a software engineer for over thirty-five years, and has been at On
 * Interests - baking, hockey, rock concerts, reading, volunteering (especially in events that promote diversity in tech)
 
 ## Talks
-* [Diversity in Tech w/Amanda Arnold November 7, 2016](https://inclusion.cs.umd.edu/events/diversity/2016#collapse-2-15)
+* [Diversity in Tech November 7, 2016](https://inclusion.cs.umd.edu/events/diversity/2016#collapse-2-15) with [Amanda Arnold](https://github.com/MandyPoppins)
   * In this session we will address common barriers to success for women in technology and address issues that must be touched in order to enable cultural change (policy- pipeline- and advocacy).
   * Together with the group we will build a potential survey for employees the answers to which will provide a starting place for culture realignment planning. Attendees will be encouraged to answer their survey honestly and use it to work toward change in their corporate culture.
   * They will also identify personnel in their company who they think can help them to implement these changes. We will also talk about engagement- policy adjustments- and the importance of visibility.
   * [Slides](https://github.com/judyj/Diversity-In-Tech/blob/master/Lead%20the%20Charge.pdf)
 * UMCP Flexus Classroom  11/17/2016
   * Lean In Book Discussion (Chapters 4 and 7). The Director of the Women in Engineering Program, Dr. Paige Smith, and instructor, Cinthya Salazar, will prepare some discussion questions based on the chapters assigned to this session, but it will be great if you can tie in the topics to your professional experiences. You can also come up with your own discussion questions and we can exchange them prior to the class. Depending on how many women from your organization are able to come, we can break up the class into small groups and have both large-group and small-group discussions.
-* [Diversity in Tech Career Panel Fri, March 2, 2018])https://inclusion.cs.umd.edu/events/diversity/2018)
+* [Diversity in Tech Career Panel Fri, March 2, 2018](https://inclusion.cs.umd.edu/events/diversity/2018)
   * Navigating Career Success (Judy Johnson, Brian Curley, Angel Plane)
   * Come to this discussion with panelists from 3 different stages in their careers to learn must do tips for a successful career in computing as a minority in the field.
 * Career Panel - Project Lead The Way 2/22/19
@@ -38,7 +38,7 @@ Judy has been a software engineer for over thirty-five years, and has been at On
 * DevOps95 - Online all day DevOps meetups - organizer 
 * TechGirlz - Organized and taught Class - 2/9/19 (Game Design)
 * TechGirlz - Organized and taught Class - 3/30/19 (Web Page Design)
-* TechGirlz  - Ran Class - 11/16/19 (Python graphics and animation) https://twitter.com/miz_j/status/1195793150670979073?s=20 
+* TechGirlz  - Ran Class - 11/16/19 (Python graphics and animation) [Tweet](https://twitter.com/miz_j/status/1195793150670979073?s=20) 
 * TechGirlz- Organized and taught class - 2/29/20 (Make an Animated Bracelet with Micro:bit)
 * TechGirlz - Organized and taught online security class 4/17/20
 * TechGirlz - Assisted 5/9/20
