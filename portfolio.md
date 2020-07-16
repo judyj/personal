@@ -36,19 +36,11 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * [Slides](https://drive.google.com/file/d/1CDy-y0zVWiznCXEwCDvXYodQ96_-OAeR/view?usp=sharing) 
 * DevOps Columbia Meetup 23 May 2019
   * [Slides](https://drive.google.com/file/d/0B3VjMpptCFN1VDhLODJHemJtWExfN1U0NmpKX2hMNkQyQVZB/view?usp=sharing) 
-* AllDayDevOps 6 Novemnber 2019
+* AllDayDevOps 6 November 2019
   * [Video](https://play.vidyard.com/RzYqzdF82cwPFavqPwmihH)
   * [Slides](https://www.slideshare.net/judyfinkjohnson/the-science-of-compliance-early-code-to-secure-your-node)
   * Publication [Feedback Loops](https://www.amazon.com/Feedback-Loops-Voices-All-DevOps/dp/B0892HNXKV/) Volume 2 - Chapter 37  
-* DevOps95 - Online all day DevOps meetups - organizer 
-* TechGirlz - Organized and taught Class - 9 February 2019 (Game Design)
-* TechGirlz - Organized and taught Class - 30 March 2019 (Web Page Design)
-* TechGirlz  - Ran Class - 16 November 2019 (Python graphics and animation) [Some photos](https://twitter.com/miz_j/status/1195793150670979073?s=20) 
-* TechGirlz- Organized and taught class - 20 February 2020 (Make an Animated Bracelet with Micro:bit)
-* TechGirlz - Organized and taught online security class 17 April 2020
-* TechGirlz - Assisted 9 May 2020
-* TechGirlz - Organized and taught online security class 12 June 20
-
+* Panelist - xOps "Fireside Chat" - ["Creating (and Maintaining) an Inclusive DevOps Culture"](https://www.linkedin.com/posts/jared-dudas-7a668b12a_xops-fireside-chat-3-activity-6685944499820134400-e39g/) 15 July 2020
 
 ## Events
 * UMBC Networking events
@@ -63,7 +55,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Bowie High School - career day 2 May 2019
 * Bowie High School - Inaugural Research Symposium 9 April 2019
 * Bowie High School - Science Fair 4 February 2020
-
+* DevOps95 - Online all day DevOps meetups - organizer 
 
 ## Blogs:
 * [The Magic of APIs](https://www.onyxpoint.com/blog/magic-of-apis/)
@@ -72,8 +64,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 
 * [TechGirlz Spotlight May 2020](https://www.techgirlz.org/volunteer-spotlight-judy-johnson/)
 
-## Random Volunteer items:
-* Lockerman Bundy
+## Volunteer items:
+* Lockerman Bundy Elementary School
   * Yearbooks with kids, media volunteer, random art projects 1999-2010
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
 * Project Lead the Way Volunteer 2017-2018-2019
@@ -83,5 +75,13 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Robotics Competition Judge 3 March 2019 (UMBC Retriever Center, 1000 Hilltop Circle, Baltimore, MD 21250)
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
   * Robotics Competition Judge 23 February 2020 (UMBC)
+* TechGirlz - Organized and taught Class - 9 February 2019 (Game Design)
+* TechGirlz - Organized and taught Class - 30 March 2019 (Web Page Design)
+* TechGirlz  - Ran Class - 16 November 2019 (Python graphics and animation) [Some photos](https://twitter.com/miz_j/status/1195793150670979073?s=20) 
+* TechGirlz- Organized and taught class - 20 February 2020 (Make an Animated Bracelet with Micro:bit)
+* TechGirlz - Organized and taught online security class 17 April 2020
+* TechGirlz - Assisted 9 May 2020
+* TechGirlz - Organized and taught online security class 12 June 20
 * UMBC Mentorship
+
 
