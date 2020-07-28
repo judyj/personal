@@ -56,7 +56,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Bowie High School - career day 2 May 2019
 * Bowie High School - Inaugural Research Symposium 9 April 2019
 * Bowie High School - Science Fair 4 February 2020
-* DevOps95 - Online all day DevOps meetups - organizer 
+* [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - organizer 
 
 ## Blogs:
 * [The Magic of APIs](https://www.onyxpoint.com/blog/magic-of-apis/)
@@ -66,23 +66,23 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * [TechGirlz Spotlight May 2020](https://www.techgirlz.org/volunteer-spotlight-judy-johnson/)
 
 ## Volunteer items:
-* Lockerman Bundy Elementary School
+* [Lockerman Bundy Elementary School](https://www.baltimorecityschools.org/schools/261)
   * Yearbooks with kids, media volunteer, random art projects 1999-2010
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
-* Project Lead the Way Volunteer 2017-2018-2019
+* [Project Lead the Way](https://www.hcpss.org/academy/engineering/) Volunteer 2017-2018-2019
 * Atholton High School Practice Interviews 2012 - present
-* RPI college fairs, multiple years
+* [RPI](https://rpi.edu) college fairs, multiple years
 * FIRST Robotics
   * Robotics Competition Judge 3 March 2019 (UMBC Retriever Center, 1000 Hilltop Circle, Baltimore, MD 21250)
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
   * Robotics Competition Judge 23 February 2020 (UMBC)
-* TechGirlz - Organized and taught Class - 9 February 2019 (Game Design)
+* [TechGirlz](https://www.techgirlz.org/) - Organized and taught Class - 9 February 2019 (Game Design)
 * TechGirlz - Organized and taught Class - 30 March 2019 (Web Page Design)
 * TechGirlz  - Ran Class - 16 November 2019 (Python graphics and animation) [Some photos](https://twitter.com/miz_j/status/1195793150670979073?s=20) 
 * TechGirlz- Organized and taught class - 20 February 2020 (Make an Animated Bracelet with Micro:bit)
 * TechGirlz - Organized and taught online security class 17 April 2020
 * TechGirlz - Assisted 9 May 2020
 * TechGirlz - Organized and taught online security class 12 June 20
-* UMBC Mentorship
+* [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Mentorship
 
 
