@@ -44,7 +44,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * [Video](https://youtu.be/ZY5-KxD280U)
 
 ## Events
-* UMBC Networking events
+* [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Networking events
   * Fall 2016 
   * Spring 2017
   * Fall 2017
@@ -53,7 +53,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Spring 2019
   * Fall 2019
   * Spring 2020 (online)
-* Bowie High School - career day 2 May 2019
+* [Bowie High School](https://www.pgcps.org/bowie/) - career day 2 May 2019
 * Bowie High School - Inaugural Research Symposium 9 April 2019
 * Bowie High School - Science Fair 4 February 2020
 * [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - organizer 
