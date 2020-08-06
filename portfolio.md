@@ -42,6 +42,9 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Publication [Feedback Loops](https://www.amazon.com/Feedback-Loops-Voices-All-DevOps/dp/B0892HNXKV/) Volume 2 - Chapter 37  
 * Panelist - xOps "Fireside Chat" - ["Creating (and Maintaining) an Inclusive DevOps Culture"](https://www.linkedin.com/posts/jared-dudas-7a668b12a_xops-fireside-chat-3-activity-6685944499820134400-e39g/) 15 July 2020
   * [Video](https://youtu.be/ZY5-KxD280U)
+* DZone Fireside Chat - [Creating and Maintaining an Inclusive DevOps Culture](https://www.linkedin.com/events/dzonecore-creating-maintaininganinclusivedevopscul/) 6 August 2020
+  * [Slides](https://www.slideshare.net/judyfinkjohnson/creating-and-maintaining-an-inclusive-devops-culture)
+
 
 ## Events
 * [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Networking events
