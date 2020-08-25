@@ -31,7 +31,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Navigating Career Success (Judy Johnson, Brian Curley, Angel Plane)
   * Come to this discussion with panelists from 3 different stages in their careers to learn must do tips for a successful career in computing as a minority in the field.
 * Career Panel - Project Lead The Way 22 February 2019
-* [DevOpsDays DC 9 July 2019](https://devopsdaysdc2019.busyconf.com/schedule#activity_5cc39ad2426e88c873000008) 
+* [DevOpsDays DC 9 July 2019](https://devopsdaysdc2019.busyconf.com/schedule#activity_5cc39ad2426e88c873000008) - "How to Automate Yourself out of a Job"
   * [Video](https://youtu.be/cLVzFQNCFtE)  
   * [Slides](https://drive.google.com/file/d/1CDy-y0zVWiznCXEwCDvXYodQ96_-OAeR/view?usp=sharing) 
 * DevOps Columbia Meetup 23 May 2019
