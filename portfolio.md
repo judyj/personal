@@ -39,8 +39,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * AllDayDevOps 6 November 2019
   * [Video](https://play.vidyard.com/RzYqzdF82cwPFavqPwmihH)
   * [Slides](https://www.slideshare.net/judyfinkjohnson/the-science-of-compliance-early-code-to-secure-your-node)
-  * Publication [Feedback Loops](https://www.amazon.com/Feedback-Loops-Voices-All-DevOps/dp/B0892HNXKV/) Volume 2 - Chapter 37  
-* Panelist - xOps "Fireside Chat" - ["Creating (and Maintaining) an Inclusive DevOps Culture"](https://www.linkedin.com/posts/jared-dudas-7a668b12a_xops-fireside-chat-3-activity-6685944499820134400-e39g/) 15 July 2020
+  * Panelist - xOps "Fireside Chat" - ["Creating (and Maintaining) an Inclusive DevOps Culture"](https://www.linkedin.com/posts/jared-dudas-7a668b12a_xops-fireside-chat-3-activity-6685944499820134400-e39g/) 15 July 2020
   * [Video](https://youtu.be/ZY5-KxD280U)
 * DZone Fireside Chat - [Creating and Maintaining an Inclusive DevOps Culture](https://www.linkedin.com/events/dzonecore-creating-maintaininganinclusivedevopscul/) 6 August 2020
   * [Slides](https://www.slideshare.net/judyfinkjohnson/creating-and-maintaining-an-inclusive-devops-culture)
@@ -61,12 +60,14 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Bowie High School - Science Fair 4 February 2020
 * [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - organizer 
 
-## Blogs:
+## Blogs, Publications, Articles:
 * [The Magic of APIs](https://www.onyxpoint.com/blog/magic-of-apis/)
 * [Women in Engineering-Interview with Senior Engineer Judy Johnson](https://www.onyxpoint.com/blog/women-in-engineering-interview-judy/)
 * [How #GirlsDoTech](https://www.onyxpoint.com/blog/howgirlsdotech/)
 
-* [TechGirlz Spotlight May 2020](https://www.techgirlz.org/volunteer-spotlight-judy-johnson/)
+* Publication [Feedback Loops](https://www.amazon.com/Feedback-Loops-Voices-All-DevOps/dp/B0892HNXKV/) Volume 2 - Chapter 37  
+* Highlighted in [TechGirlz Spotlight May 2020](https://www.techgirlz.org/volunteer-spotlight-judy-johnson/)
+* Interviewed for [The 20%: A Collection of Interviews](https://dzone.com/articles/women-in-tech-a-collection-of-interviews)
 
 ## Volunteer items:
 * [Lockerman Bundy Elementary School](https://www.baltimorecityschools.org/schools/261)
