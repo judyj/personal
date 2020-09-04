@@ -85,9 +85,9 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * TechGirlz - Organized and taught Class - 30 March 2019 (Web Page Design)
 * TechGirlz  - Ran Class - 16 November 2019 (Python graphics and animation) [Some photos](https://twitter.com/miz_j/status/1195793150670979073?s=20) 
 * TechGirlz- Organized and taught class - 20 February 2020 (Make an Animated Bracelet with Micro:bit)
-* TechGirlz - Organized and taught online security class 17 April 2020
+* TechGirlz - Organized and taught online Cybersecurity class 17 April 2020
 * TechGirlz - Assisted 9 May 2020
-* TechGirlz - Organized and taught online security class 12 June 20
+* TechGirlz - Organized and taught online Cybersecurity class 12 June 20
 * [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Mentorship
 
 
