@@ -68,7 +68,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 
 * Published in [Feedback Loops](https://www.amazon.com/Feedback-Loops-Voices-All-DevOps/dp/B0892HNXKV/) Volume 2 - Chapter 37 "The Science of Compliance"
 * Highlighted in [TechGirlz Spotlight May 2020](https://www.techgirlz.org/volunteer-spotlight-judy-johnson/)
-* Interviewed for [The 20%: A Collection of Interviews](https://dzone.com/articles/women-in-tech-a-collection-of-interviews)
+* Interviewed for [The 20%: A Collection of Interviews](https://dzone.com/articles/women-in-tech-a-collection-of-interviews) August 2020
 
 ## Volunteer items:
 * [Lockerman Bundy Elementary School](https://www.baltimorecityschools.org/schools/261)
