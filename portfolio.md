@@ -12,6 +12,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 
 ## Bio
 
+* [LinkedIn](https://www.linkedin.com/in/judyfinkjohnson/)
 * Computer Science Degree RPI [Rensselaer Polytechnic Institute](https://rpi.edu/)
 * Software engineer for [many] years - SatCom, Digital Signal Processing, Hardware control, now security framework
 * [Onyx Point](https://www.onyxpoint.com/) since 2015. 
@@ -76,7 +77,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * [Project Lead the Way](https://www.hcpss.org/academy/engineering/) Volunteer 2017-2018-2019
 * Atholton High School Practice Interviews 2012 - present
 * [RPI](https://rpi.edu) college fairs, multiple years
-* FIRST Robotics
+* [FIRST Robotics](https://www.firstinspires.org/robotics/frc)
   * Robotics Competition Judge 3 March 2019 (UMBC Retriever Center, 1000 Hilltop Circle, Baltimore, MD 21250)
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
   * Robotics Competition Judge 23 February 2020 (UMBC)
