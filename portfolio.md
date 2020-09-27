@@ -26,7 +26,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Together with the group we will build a potential survey for employees the answers to which will provide a starting place for culture realignment planning. Attendees will be encouraged to answer their survey honestly and use it to work toward change in their corporate culture.
   * They will also identify personnel in their company who they think can help them to implement these changes. We will also talk about engagement- policy adjustments- and the importance of visibility.
   * [Slides](https://github.com/judyj/Diversity-In-Tech/blob/master/Lead%20the%20Charge.pdf)
-* UMCP Flexus Classroom  17 November 2016
+* [Universoty of Maryland, College Park](https://www.umd.edu/) Flexus Classroom  17 November 2016
   * Lean In Book Discussion (Chapters 4 and 7). The Director of the Women in Engineering Program, Dr. Paige Smith, and instructor, Cinthya Salazar, will prepare some discussion questions based on the chapters assigned to this session, but it will be great if you can tie in the topics to your professional experiences. You can also come up with your own discussion questions and we can exchange them prior to the class. Depending on how many women from your organization are able to come, we can break up the class into small groups and have both large-group and small-group discussions.
 * [Diversity in Tech Career Panel 2 March 2018](https://inclusion.cs.umd.edu/events/diversity/2018)
   * Navigating Career Success (Judy Johnson, Brian Curley, Angel Plane)
@@ -47,21 +47,6 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * [Video](https://youtu.be/qkp1N94iDs4)
 * Coming soon - Agile & DevOps Summit Virtual (TechWell) - [Automation Justification](https://agiledevopseast.techwell.com/program/concurrent-sessions/automation-justification-agile-devops-virtual-2020) 11 November 2020
 
-## Events
-* [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Networking events
-  * Fall 2016 
-  * Spring 2017
-  * Fall 2017
-  * Spring 2018
-  * Fall 2018
-  * Spring 2019
-  * Fall 2019
-  * Spring 2020 (online)
-* [Bowie High School](https://www.pgcps.org/bowie/) - career day 2 May 2019
-* Bowie High School - Inaugural Research Symposium 9 April 2019
-* Bowie High School - Science Fair 4 February 2020
-* [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - organizer 
-
 ## Blogs, Publications, Articles:
 * [The Magic of APIs](https://www.onyxpoint.com/blog/magic-of-apis/)
 * [Women in Engineering-Interview with Senior Engineer Judy Johnson](https://www.onyxpoint.com/blog/women-in-engineering-interview-judy/)
@@ -76,8 +61,22 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Yearbooks with kids, media volunteer, random art projects 1999-2010
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
 * [Project Lead the Way](https://www.hcpss.org/academy/engineering/) Volunteer 2017-2018-2019
-* Atholton High School Practice Interviews 2012 - present
+* [Atholton High School](https://ahs.hcpss.org/) Practice Interviews 2012 - present
+* [Bowie High School](https://www.pgcps.org/bowie/) 
+  * Bowie High School - Career Day 2 May 2019
+  * Bowie High School - Inaugural Research Symposium 9 April 2019
+  * Bowie High School - Science Fair 4 February 2020
 * [RPI](https://rpi.edu) college fairs, multiple years
+* [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Mentorship 2019-20, 2020-21
+* [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Networking events
+  * Fall 2016 
+  * Spring 2017
+  * Fall 2017
+  * Spring 2018
+  * Fall 2018
+  * Spring 2019
+  * Fall 2019
+  * Spring 2020 (online)
 * [FIRST Robotics](https://www.firstinspires.org/robotics/frc)
   * Robotics Competition Judge 3 March 2019 (UMBC Retriever Center, 1000 Hilltop Circle, Baltimore, MD 21250)
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
@@ -91,7 +90,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * TechGirlz - Assisted 9 May 2020
   * TechGirlz - Organized and taught online Cybersecurity class 12 June 2020
   * TechGirlz - Created curriculum and slides for Internet Safety Workshop (2020)
+* [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - Committee 
+* [DevOps Columbia Meetup](https://www.meetup.com/devops-columbia/) Co-organizer
 * [Women Who Code DC](https://www.womenwhocode.com/dc) - Volunteered at [Virtual Career Services Day](https://www.meetup.com/Women-Who-Code-DC/events/272746667/) - One-on-One meetings offering resume and career advice - 26 September 2020
-* [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Mentorship 2019-20, 2020-21
 
 
