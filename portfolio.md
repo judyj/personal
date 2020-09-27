@@ -82,13 +82,16 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Robotics Competition Judge 3 March 2019 (UMBC Retriever Center, 1000 Hilltop Circle, Baltimore, MD 21250)
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
   * Robotics Competition Judge 23 February 2020 (UMBC)
-* [TechGirlz](https://www.techgirlz.org/) - Organized and taught Class - 9 February 2019 (Game Design)
-* TechGirlz - Organized and taught Class - 30 March 2019 (Web Page Design)
-* TechGirlz  - Ran Class - 16 November 2019 (Python graphics and animation) [Some photos](https://twitter.com/miz_j/status/1195793150670979073?s=20) 
-* TechGirlz- Organized and taught class - 20 February 2020 (Make an Animated Bracelet with Micro:bit)
-* TechGirlz - Organized and taught online Cybersecurity class 17 April 2020
-* TechGirlz - Assisted 9 May 2020
-* TechGirlz - Organized and taught online Cybersecurity class 12 June 20
-* [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Mentorship
+* [TechGirlz](https://www.techgirlz.org/) 
+  * TechGirlz - Organized and taught Class - 9 February 2019 (Game Design)
+  * TechGirlz - Organized and taught Class - 30 March 2019 (Web Page Design)
+  * TechGirlz  - Ran Class - 16 November 2019 (Python graphics and animation) [Some photos](https://twitter.com/miz_j/status/1195793150670979073?s=20) 
+  * TechGirlz- Organized and taught class - 20 February 2020 (Make an Animated Bracelet with Micro:bit)
+  * TechGirlz - Organized and taught online Cybersecurity class 17 April 2020
+  * TechGirlz - Assisted 9 May 2020
+  * TechGirlz - Organized and taught online Cybersecurity class 12 June 2020
+  * TechGirlz - Created curriculum and slides for Internet Safety Workshop (2020)
+* [Women Who Code DC](https://www.womenwhocode.com/dc) - Volunteered at [Virtual Career Services Day](https://www.meetup.com/Women-Who-Code-DC/events/272746667/) - One-on-One meetings offering resume and career advice - 26 September 2020
+* [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Mentorship 2019-20, 2020-21
 
 
