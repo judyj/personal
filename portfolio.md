@@ -51,6 +51,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * [The Magic of APIs](https://www.onyxpoint.com/blog/magic-of-apis/)
 * [Women in Engineering-Interview with Senior Engineer Judy Johnson](https://www.onyxpoint.com/blog/women-in-engineering-interview-judy/)
 * [How #GirlsDoTech](https://www.onyxpoint.com/blog/howgirlsdotech/)
+* [Community and Diversity](https://www.onyxpoint.com/blog/community-and-diversity/)
 
 * Published in [Feedback Loops](https://www.amazon.com/Feedback-Loops-Voices-All-DevOps/dp/B0892HNXKV/) Volume 2 - Chapter 37 "The Science of Compliance"
 * Highlighted in [TechGirlz Spotlight May 2020](https://www.techgirlz.org/volunteer-spotlight-judy-johnson/)
