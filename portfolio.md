@@ -46,6 +46,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * [Slides](https://www.slideshare.net/judyfinkjohnson/creating-and-maintaining-an-inclusive-devops-culture)
   * [Video](https://youtu.be/qkp1N94iDs4)
 * Coming soon - Agile & DevOps Summit Virtual (TechWell) - [Automation Justification](https://agiledevopseast.techwell.com/program/concurrent-sessions/automation-justification-agile-devops-virtual-2020) 11 November 2020
+* Coming soon - Agile & DevOps Summit Virtual (TechWell) - [The Science of Compliance](https://agiledevopseast.techwell.com/program/devsecops-summit-sessions/science-compliance-early-code-secure-your-node-agile-devops-virtual-2020) 18 November 2020
+
 
 ## Blogs, Publications, Articles:
 * [The Magic of APIs](https://www.onyxpoint.com/blog/magic-of-apis/)
