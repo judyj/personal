@@ -22,15 +22,13 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 
 ## Talks
 * [Diversity in Tech Conference](https://inclusion.cs.umd.edu/events/diversity/2016#collapse-2-15) with [Amanda Arnold](https://github.com/MandyPoppins) - 7 November 2016
-  * In this session we will address common barriers to success for women in technology and address issues that must be touched in order to enable cultural change (policy- pipeline- and advocacy).
-  * Together with the group we will build a potential survey for employees the answers to which will provide a starting place for culture realignment planning. Attendees will be encouraged to answer their survey honestly and use it to work toward change in their corporate culture.
-  * They will also identify personnel in their company who they think can help them to implement these changes. We will also talk about engagement- policy adjustments- and the importance of visibility.
+  * In this session we will address common barriers to success for women in technology and address issues that must be touched in order to enable cultural change (policy- pipeline- and advocacy). Together with the group we will build a potential survey for employees the answers to which will provide a starting place for culture realignment planning. Attendees will be encouraged to answer their survey honestly and use it to work toward change in their corporate culture. They will also identify personnel in their company who they think can help them to implement these changes. We will also talk about engagement- policy adjustments- and the importance of visibility.
   * [Slides](https://github.com/judyj/Diversity-In-Tech/blob/master/Lead%20the%20Charge.pdf)
 * [University of Maryland, College Park](https://www.umd.edu/) Flexus Classroom  17 November 2016
-  * Lean In Book Discussion (Chapters 4 and 7). The Director of the Women in Engineering Program, Dr. Paige Smith, and instructor, Cinthya Salazar, will prepare some discussion questions based on the chapters assigned to this session, but it will be great if you can tie in the topics to your professional experiences. You can also come up with your own discussion questions and we can exchange them prior to the class. Depending on how many women from your organization are able to come, we can break up the class into small groups and have both large-group and small-group discussions.
+  * Lean In Book Discussion (Chapters 4 and 7). The Director of the Women in Engineering Program, Dr. Paige Smith, and instructor, Cinthya Salazar, prepared some discussion questions based on the chapters assigned to this session, and I was able to tie in the topics with my professional experiences. After the book chat, we had a group discussion.
 * [Diversity in Tech Conference Career Panel](https://inclusion.cs.umd.edu/events/diversity/2018) - 2 March 2018
   * Navigating Career Success (Judy Johnson, Brian Curley, Angel Plane)
-  * Come to this discussion with panelists from 3 different stages in their careers to learn must do tips for a successful career in computing as a minority in the field.
+  * One of three panelists from 3 different stages in our careers working with attendees "to learn must-do tips for a successful career in computing as a minority in the field."
 * Career Panel - [Project Lead The Way](https://www.hcpss.org/academy/engineering/) - 22 February 2019
 * DevOpsDays DC - ["How to Automate Yourself out of a Job"](https://devopsdaysdc2019.busyconf.com/schedule#activity_5cc39ad2426e88c873000008) 9 July 2019
   * [Video](https://youtu.be/cLVzFQNCFtE)  
