@@ -2,7 +2,7 @@
 
 ## Standard blurb:
 Judy has been a software engineer for over thirty-five years, and has been at [Onyx Point](https://www.onyxpoint.com/) since 2015. 
-She has also functioned as a System Engineer, Project Manager, ScrumMaster, and a record store clerk. 
+She has also functioned as a System Engineer, Project Manager, ScrumMaster, and a CD store clerk. 
 She was lucky enough to have started programming in the 19XXes when her Dad brought home a [PDP-8](https://en.wikipedia.org/wiki/PDP-8) - she eventually progressed from paper-tape and punched cards to more modern computing systems.  
 When not at work, Judy can be found baking yummy treats for family, friends, and coworkers; attending hockey games and rock concerts; or trying to finish a good book.  
 Judy also loves to volunteer, especially in events that promote diversity in technology. 
@@ -16,7 +16,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Computer Science Degree RPI [Rensselaer Polytechnic Institute](https://rpi.edu/)
 * Software engineer for [many] years - SatCom, Digital Signal Processing, Hardware control, now security framework
 * [Onyx Point](https://www.onyxpoint.com/) since 2015. 
-* Various career job titles: Systems Engineer, Project Manager, ScrumMaster, and a record store clerk. 
+* Various career job titles: Systems Engineer, Project Manager, ScrumMaster, and a CD store clerk. 
 * Started programming in middle school in the 19XXes when her Dad brought home a [PDP-8](https://en.wikipedia.org/wiki/PDP-8).
 * Interests - baking, hockey, rock concerts, reading, volunteering (especially in events that promote diversity in tech)
 
