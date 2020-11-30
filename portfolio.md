@@ -46,7 +46,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Agile & DevOps Summit Virtual (TechWell) - [Automation Justification](https://agiledevopseast.techwell.com/program/concurrent-sessions/automation-justification-agile-devops-virtual-2020) 11 November 2020
   * [Slides](https://www2.slideshare.net/judyfinkjohnson/automation-justification/judyfinkjohnson/automation-justification)
   * [Video](https://youtu.be/ybiVqpDUQU4)
-  * [Article] (https://dzone.com/articles/automation-justification)
+  * [Article](https://dzone.com/articles/automation-justification)
 * Agile & DevOps Summit (DevSecOps Summit) Virtual (TechWell) - [The Science of Compliance](https://agiledevopseast.techwell.com/program/devsecops-summit-sessions/science-compliance-early-code-secure-your-node-agile-devops-virtual-2020) 18 November 2020
   * [Slides](https://www2.slideshare.net/judyfinkjohnson/the-science-of-compliance)
 
