@@ -50,6 +50,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Agile & DevOps Summit (DevSecOps Summit) Virtual (TechWell) - [The Science of Compliance](https://agiledevopseast.techwell.com/program/devsecops-summit-sessions/science-compliance-early-code-secure-your-node-agile-devops-virtual-2020) 18 November 2020
   * [Slides](https://www2.slideshare.net/judyfinkjohnson/the-science-of-compliance)
 * Dev Interrupted Podcast [The Limitations of Automation](https://dzone.com/articles/the-limitations-of-automation)
+  * [DZone announcement](https://dzone.com/articles/the-limitations-of-automation)
   * [Audio](https://open.spotify.com/episode/5BVaEdZ3Cqrjd7nsyLL64p)
 
 
