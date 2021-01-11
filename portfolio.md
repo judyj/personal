@@ -33,6 +33,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * DevOpsDays DC - ["How to Automate Yourself out of a Job"](https://devopsdaysdc2019.busyconf.com/schedule#activity_5cc39ad2426e88c873000008) 9 July 2019
   * [Video](https://youtu.be/cLVzFQNCFtE)  
   * [Slides](https://drive.google.com/file/d/1CDy-y0zVWiznCXEwCDvXYodQ96_-OAeR/view?usp=sharing) 
+  * [Shared by Pager Duty -Automation Week/30 Days of DevOps](https://pagerduty.influitive.com/forum/t/automation-week/2228)
 * [DevOps Columbia Meetup](https://www.meetup.com/devops-columbia/events/lrppqqyzhbfc/) 23 May 2019
   * [Slides](https://drive.google.com/file/d/0B3VjMpptCFN1VDhLODJHemJtWExfN1U0NmpKX2hMNkQyQVZB/view?usp=sharing) 
 * AllDayDevOps - ["The Science of Compliance - Early Code to Secure your Node"](https://www.alldaydevops.com/ondemand-recordings-2019) 6 November 2019
