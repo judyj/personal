@@ -10,8 +10,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 
 
 
-## Bio
-
+## Bio:
 * [LinkedIn](https://www.linkedin.com/in/judyfinkjohnson/)
 * Computer Science Degree RPI [Rensselaer Polytechnic Institute](https://rpi.edu/)
 * Software engineer for [many] years - SatCom, Digital Signal Processing, Hardware control, now security framework
@@ -20,7 +19,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Started programming in middle school in the 19XXes when her Dad brought home a [PDP-8](https://en.wikipedia.org/wiki/PDP-8).
 * Interests - baking, hockey, rock concerts, reading, volunteering (especially in events that promote diversity in tech)
 
-## Talks
+## Talks:
 * [Diversity in Tech Conference](https://inclusion.cs.umd.edu/events/diversity/2016#collapse-2-15) with [Amanda Arnold](https://github.com/MandyPoppins) - 7 November 2016
   * In this session we will address common barriers to success for women in technology and address issues that must be touched in order to enable cultural change (policy- pipeline- and advocacy). Together with the group we will build a potential survey for employees the answers to which will provide a starting place for culture realignment planning. Attendees will be encouraged to answer their survey honestly and use it to work toward change in their corporate culture. They will also identify personnel in their company who they think can help them to implement these changes. We will also talk about engagement- policy adjustments- and the importance of visibility.
   * [Slides](https://github.com/judyj/Diversity-In-Tech/blob/master/Lead%20the%20Charge.pdf)
@@ -53,8 +52,6 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Dev Interrupted Podcast [The Limitations of Automation](https://dzone.com/articles/the-limitations-of-automation)
   * [DZone announcement](https://dzone.com/articles/the-limitations-of-automation)
   * [Audio](https://open.spotify.com/episode/5BVaEdZ3Cqrjd7nsyLL64p)
-
-
 
 ## Blogs, Publications, Articles:
 * [The Magic of APIs](https://www.onyxpoint.com/blog/magic-of-apis/)
