@@ -78,6 +78,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Bowie High School - Career Day 2 May 2019
   * Bowie High School - Inaugural Research Symposium 9 April 2019
   * Bowie High School - Science Fair 4 February 2020
+  * Bowie High School - Science Fair 3 February 2021
 * [RPI](https://rpi.edu) college fairs, multiple years
 * [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Mentorship 2019-20, 2020-21
 * [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Networking events
