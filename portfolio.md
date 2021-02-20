@@ -104,7 +104,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * TechGirlz - Assisted 9 May 2020
   * TechGirlz - Organized and taught online Cybersecurity class 12 June 2020
   * TechGirlz - Created curriculum and slides for Internet Safety Workshop (2020)
-  * TechGirlz - Organized and taught Internet Safety class 19 October 2020
+  * TechGirlz - Organized and taught [Internet Safety](https://twitter.com/TechGirlzorg/status/1317182306172440576?s=20) class 19 October 2020
+  * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/umtlibrary/status/1358777605210726403?s=20) 15 February 2021
 * [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - Committee 
 * [DevOps Columbia Meetup](https://www.meetup.com/devops-columbia/) Co-organizer
 * [Women Who Code DC](https://www.womenwhocode.com/dc) - Volunteered at [Virtual Career Services Day](https://www.meetup.com/Women-Who-Code-DC/events/272746667/) - One-on-One meetings offering resume and career advice - 26 September 2020
