@@ -53,6 +53,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Dev Interrupted Podcast [The Limitations of Automation](https://dzone.com/articles/the-limitations-of-automation)
   * [DZone announcement](https://dzone.com/articles/the-limitations-of-automation)
   * [Audio](https://open.spotify.com/episode/5BVaEdZ3Cqrjd7nsyLL64p)
+* DZone [Women in Software Panel](https://www.eventbrite.com/e/community-meetup-dzone-women-in-software-panel-tickets-144330547553) In Celebration of International Women's Day 2021 (COMING SOON 3/8/2021)
+* DZone [Community Member Campfire](https://events.cmxhub.com/events/details/cmx-research-triangle-park-presents-community-member-campfire/#/) Real-world Community: Actual community members speak on community and collaborating in these Covid times. (COMING SOON 3/30/2021)
 
 ## Blogs, Publications, Articles:
 * [The Magic of APIs](https://www.onyxpoint.com/blog/magic-of-apis/)
@@ -72,6 +74,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * [Lockerman Bundy Elementary School](https://www.baltimorecityschools.org/schools/261)
   * Yearbooks with kids, media volunteer, random art projects 1999-2010
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
+  * [Read Across America (Quarantine Edition) Youtube](https://www.youtube.com/channel/UCGTcAHnuJcHpRd5UCYb1r8A) Started March 2021
 * [Project Lead the Way](https://www.hcpss.org/academy/engineering/) Volunteer 2017-2018-2019
 * [Atholton High School](https://ahs.hcpss.org/) Practice Interviews 2012 - present
 * [Bowie High School](https://www.pgcps.org/bowie/) 
