@@ -53,7 +53,9 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Dev Interrupted Podcast [The Limitations of Automation](https://dzone.com/articles/the-limitations-of-automation)
   * [DZone announcement](https://dzone.com/articles/the-limitations-of-automation)
   * [Audio](https://open.spotify.com/episode/5BVaEdZ3Cqrjd7nsyLL64p)
-* DZone [Women in Software Panel](https://www.eventbrite.com/e/community-meetup-dzone-women-in-software-panel-tickets-144330547553) In Celebration of International Women's Day 2021 (COMING SOON 3/8/2021)
+* DZone [Women in Software Panel](https://www.eventbrite.com/e/community-meetup-dzone-women-in-software-panel-tickets-144330547553) In Celebration of International Women's Day 2021 8 March 2021 
+  * [Video](https://www.youtube.com/watch?v=v-Un9BcVFcA)
+  * [Article](https://dzone.com/articles/celebrating-international-womens-day-women-in-soft)
 * DZone [Community Member Campfire](https://events.cmxhub.com/events/details/cmx-research-triangle-park-presents-community-member-campfire/#/) Real-world Community: Actual community members speak on community and collaborating in these Covid times. (COMING SOON 3/30/2021)
 
 ## Blogs, Publications, Articles:
@@ -65,6 +67,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Highlighted in [TechGirlz Spotlight May 2020](https://www.techgirlz.org/volunteer-spotlight-judy-johnson/)
 * Interviewed for [The 20%: A Collection of Interviews](https://dzone.com/articles/women-in-tech-a-collection-of-interviews) August 2020
 * DZone article [Automation Justification](https://dzone.com/articles/automation-justification)
+* Interviewed Noelle Faris [Q and A With Noelle Faris: National Women's Month Highlights](https://dzone.com/articles/qampa-with-noelle-faris-national-womens-month-high) March 2021
 * Published in [Feedback Loops](https://www.amazon.com/Feedback-Loops-Voices-All-DevOps/dp/B0892HNXKV/) Volume 2 - Chapter 37 "The Science of Compliance"
 * Published in [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Cloud-Engineer-Should/dp/1492076732/) "Chapter 76. Automate or Not-o-Mate"
 
