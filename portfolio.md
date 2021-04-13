@@ -57,6 +57,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * [Video](https://www.youtube.com/watch?v=v-Un9BcVFcA)
   * [Article](https://dzone.com/articles/celebrating-international-womens-day-women-in-soft)
 * DZone [Community Member Campfire](https://events.cmxhub.com/events/details/cmx-research-triangle-park-presents-community-member-campfire/#/) Real-world Community: Actual community members speak on community and collaborating in these Covid times. (COMING SOON 3/30/2021)
+  * [Video](https://youtu.be/PV5-AohwfVc)   
 
 ## Blogs, Publications, Articles:
 * [The Magic of APIs](https://www.onyxpoint.com/blog/magic-of-apis/)
