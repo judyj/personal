@@ -116,7 +116,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * TechGirlz - Organized and taught [Internet Safety](https://twitter.com/TechGirlzorg/status/1317182306172440576?s=20) class 19 October 2020
   * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/umtlibrary/status/1358777605210726403?s=20) 15 February 2021
   * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/TechGirlzorg/status/1378367449373024256?s=20) 6 April 2021
-  * TechGirlz - Coming soon!! [Internet Safety](https://twitter.com/TechGirlzorg/status/1379525582036340737?s=20) 13 April 2021 
+  * TechGirlz - Taught [Internet Safety](https://twitter.com/TechGirlzorg/status/1379525582036340737?s=20) 13 April 2021 
   * TechGirlz - Coming soon!! [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://remakelearningdays.org/event/build-your-own-voice-app-with-voiceflow-a-special-event-for-middle-school-girls-and-their-parent-guardian/) 11 May 2021
 
 * [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - Committee 
