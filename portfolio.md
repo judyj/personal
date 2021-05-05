@@ -80,6 +80,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
   * [Read Across America (Quarantine Edition) Youtube](https://www.youtube.com/channel/UCGTcAHnuJcHpRd5UCYb1r8A) Started March 2021
 * [Project Lead the Way](https://www.hcpss.org/academy/engineering/) Volunteer 2017-2018-2019
+* [Northlake Middle School, IL](https://www.berkeley87.org/) COMING SOON!! Speak with students about careers in Computer science 7 May 2021
 * [Atholton High School](https://ahs.hcpss.org/) Practice Interviews 2012 - present
 * [Bowie High School](https://www.pgcps.org/bowie/) 
   * Bowie High School - Career Day 2 May 2019
