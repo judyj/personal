@@ -1,7 +1,7 @@
 # About Me Page
 
 ## Standard blurb:
-Judy has been a software engineer for over thirty-five years, and works at [EITR TEchnologies](https://eitr.tech/). 
+Judy has been a software engineer for over thirty-five years, and works at [EITR Technologies](https://eitr.tech/). 
 She has also functioned as a System Engineers, Project Manager, ScrumMaster, and a CD store clerk. 
 She was lucky enough to have started programming in the 19XXes when her Dad brought home a [PDP-8](https://en.wikipedia.org/wiki/PDP-8) - she eventually progressed from paper-tape and punched cards to more modern computing systems.  
 When not at work, Judy can be found baking treats for family, friends, and coworkers; attending hockey games and rock concerts; or trying to finish a good book.  
