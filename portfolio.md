@@ -69,8 +69,9 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Interviewed for [The 20%: A Collection of Interviews](https://dzone.com/articles/women-in-tech-a-collection-of-interviews) August 2020
 * DZone article [Automation Justification](https://dzone.com/articles/automation-justification)
 * Interviewed Noelle Faris [Q and A With Noelle Faris: National Women's Month Highlights](https://dzone.com/articles/qampa-with-noelle-faris-national-womens-month-high) March 2021
+* Published in [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Cloud-Engineer-Should/dp/1492076732/) Chapter 76  "Automate or Not-o-Mate"
 * Published in [Feedback Loops](https://www.amazon.com/Feedback-Loops-Voices-All-DevOps/dp/B0892HNXKV/) Volume 2 - Chapter 37 "The Science of Compliance"
-* Published in [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Cloud-Engineer-Should/dp/1492076732/) "Chapter 76. Automate or Not-o-Mate"
+* Part of [DZone Trend Report CI | CD](https://dzone.com/storage/assets/14886837-dzone-tr-cicd-2021.pdf) Page 58, "Automate or Not-O-Mate"
 
 
 ## Volunteer items:
