@@ -14,7 +14,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * [LinkedIn](https://www.linkedin.com/in/judyfinkjohnson/)
 * Computer Science Degree RPI [Rensselaer Polytechnic Institute](https://rpi.edu/)
 * Software engineer for [many] years - SatCom, Digital Signal Processing, Hardware control, now security framework
-* [Onyx Point](https://www.onyxpoint.com/) since 2015. 
+* [EITR Technologies](https://eitr.tech/) since 2021. 
 * Various career job titles: Systems Engineer, Project Manager, ScrumMaster, and a CD store clerk. 
 * Started programming in middle school in the 19XXes when her Dad brought home a [PDP-8](https://en.wikipedia.org/wiki/PDP-8).
 * Interests - baking, hockey, rock concerts, reading, volunteering (especially in events that promote diversity in tech)
