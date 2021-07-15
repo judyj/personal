@@ -84,7 +84,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
   * [Read Across America (Quarantine Edition) Youtube](https://www.youtube.com/channel/UCGTcAHnuJcHpRd5UCYb1r8A) Started March 2021
 * [Project Lead the Way](https://www.hcpss.org/academy/engineering/) Volunteer 2017-2018-2019
-* [Northlake Middle School, IL](https://www.berkeley87.org/) COMING SOON!! Speak with students about careers in Computer science 7 May 2021
+* [Northlake Middle School, IL](https://www.berkeley87.org/)Spoke with students about careers in Computer science 7 May 2021
 * [Atholton High School](https://ahs.hcpss.org/) Practice Interviews 2012 - present
 * [Bowie High School](https://www.pgcps.org/bowie/) 
   * Bowie High School - Career Day 2 May 2019
@@ -122,6 +122,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/umtlibrary/status/1358777605210726403?s=20) 15 February 2021
   * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/TechGirlzorg/status/1378367449373024256?s=20) 6 April 2021
   * TechGirlz - Taught [Internet Safety](https://twitter.com/TechGirlzorg/status/1379525582036340737?s=20) 13 April 2021 
+  * TechGirlz - Teaching Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow ** Coming soon!!** 5 October 2021
 
 * [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - Committee 
 * [DevOps Columbia Meetup](https://www.meetup.com/devops-columbia/) Co-organizer
