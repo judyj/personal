@@ -1,7 +1,7 @@
 # About Me Page
 
 ## Standard blurb:
-Judy has been a software engineer for over thirty-five years, and works at [EITR Technologies](https://eitr.tech/). 
+Judy has been a Software Engineer for over thirty-five years, and works at [EITR Technologies](https://eitr.tech/). 
 She has also functioned as a Systems Engineer, Project Manager, ScrumMaster, and a CD store clerk. 
 She was lucky enough to have started programming in the 19XXes when her Dad brought home a [PDP-8](https://en.wikipedia.org/wiki/PDP-8) - she eventually progressed from paper-tape and punched cards to more modern computing systems.  
 When not at work, Judy can be found baking treats for family, friends, and coworkers; attending hockey games and rock concerts; or trying to finish a good book.  
@@ -76,6 +76,9 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 
 ## Volunteer items:
 * [Howard County 20 minute cleanup](https://livegreenhoward.com/recycling-waste/litter-cleanups/) Led this and many Earth Day Events. Most recently, Onyx Point [2018](https://livegreenhoward.com/wp-content/uploads/2018/05/2018-updatedTY-list-for-website.pdf) - [photo](https://twitter.com/onyxpoint/status/987378243077656578?s=20) and [2019](https://livegreenhoward.com/wp-content/uploads/2019/06/2019-TY-list-for-website.pdf) - [photo](https://www.flickr.com/photos/livegreenhoward/40890630973/in/album-72157707104911601/) 
+* Piney Run Park Cleanups- sponsored by EITR and Carroll County Equestrian Council
+  * [April 17 2021](https://www.facebook.com/113483236763072/photos/a.119106552867407/483650476413011/)
+  * [June 19 2021](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/3830488620394168/)
 * [Lockerman Bundy Elementary School](https://www.baltimorecityschools.org/schools/261)
   * Yearbooks with kids, media volunteer, random art projects 1999-2010
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
