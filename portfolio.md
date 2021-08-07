@@ -13,7 +13,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 ## Bio:
 * [LinkedIn](https://www.linkedin.com/in/judyfinkjohnson/)
 * Computer Science Degree RPI [Rensselaer Polytechnic Institute](https://rpi.edu/)
-* Software engineer for [many] years - SatCom, Digital Signal Processing, Hardware control, now security framework
+* Software engineer for [many] years - SatCom, Digital Signal Processing, Hardware control, security framework
 * [EITR Technologies](https://eitr.tech/) since 2021. 
 * Various career job titles: Systems Engineer, Project Manager, ScrumMaster, and a CD store clerk. 
 * Started programming in middle school in the 19XXes when her Dad brought home a [PDP-8](https://en.wikipedia.org/wiki/PDP-8).
@@ -67,12 +67,12 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 
 * Highlighted in [TechGirlz Spotlight May 2020](https://www.techgirlz.org/volunteer-spotlight-judy-johnson/)
 * Interviewed for [The 20%: A Collection of Interviews](https://dzone.com/articles/women-in-tech-a-collection-of-interviews) August 2020
-* DZone article [Automation Justification](https://dzone.com/articles/automation-justification)
+* DZone article [Automation Justification](https://dzone.com/articles/automation-justification) November 2020
 * Interviewed Noelle Faris [Q and A With Noelle Faris: National Women's Month Highlights](https://dzone.com/articles/qampa-with-noelle-faris-national-womens-month-high) March 2021
 * Published in [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Cloud-Engineer-Should/dp/1492076732/) Chapter 76  "Automate or Not-o-Mate"
 * Published in [Feedback Loops](https://www.amazon.com/Feedback-Loops-Voices-All-DevOps/dp/B0892HNXKV/) Volume 2 - Chapter 37 "The Science of Compliance"
 * Part of [DZone Trend Report CI | CD](https://dzone.com/storage/assets/14886837-dzone-tr-cicd-2021.pdf) Page 58, "Automate or Not-O-Mate"
-
+* [7 Pieces of Bad Advice for Women in Engineering Leadership](https://devinterrupted.com/7-pieces-of-bad-advice-for-women-in-engineering-leadership/) August 2021
 
 ## Volunteer items:
 * [Howard County 20 minute cleanup](https://livegreenhoward.com/recycling-waste/litter-cleanups/) Led this and many Earth Day Events. Most recently, Onyx Point [2018](https://livegreenhoward.com/wp-content/uploads/2018/05/2018-updatedTY-list-for-website.pdf) - [photo](https://twitter.com/onyxpoint/status/987378243077656578?s=20) and [2019](https://livegreenhoward.com/wp-content/uploads/2019/06/2019-TY-list-for-website.pdf) - [photo](https://www.flickr.com/photos/livegreenhoward/40890630973/in/album-72157707104911601/) 
