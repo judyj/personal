@@ -104,6 +104,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Spring 2020 (online)
   * Fall 2020 (online)
   * Spring 2021 (online)
+  * Fall 2021 (online)
 * [FIRST Robotics](https://www.firstinspires.org/robotics/frc)
   * Robotics Competition Judge 3 March 2019 (UMBC Retriever Center, 1000 Hilltop Circle, Baltimore, MD 21250)
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
@@ -122,7 +123,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/umtlibrary/status/1358777605210726403?s=20) 15 February 2021
   * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/TechGirlzorg/status/1378367449373024256?s=20) 6 April 2021
   * TechGirlz - Taught [Internet Safety](https://twitter.com/TechGirlzorg/status/1379525582036340737?s=20) 13 April 2021 
-  * TechGirlz - Teaching Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow ** Coming soon!!** 5 October 2021
+  * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/miz_j/status/1443372317799747585?s=20) 5 October 2021
 
 * [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - Committee 
 * [DevOps Columbia Meetup](https://www.meetup.com/devops-columbia/) Co-organizer
