@@ -58,6 +58,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * [Article](https://dzone.com/articles/celebrating-international-womens-day-women-in-soft)
 * DZone [Community Member Campfire](https://events.cmxhub.com/events/details/cmx-research-triangle-park-presents-community-member-campfire/#/) Real-world Community: Actual community members speak on community and collaborating in these Covid times.
   * [Video](https://youtu.be/PV5-AohwfVc)   
+* Meetup Talk [What is DevOps?](https://www.meetup.com/Ellicott-City-Web-Development-Meetup/events/282995100/) 16 January 2021
 
 ## Blogs, Publications, Articles:
 * [The Magic of APIs](https://www.onyxpoint.com/blog/magic-of-apis/)
@@ -76,6 +77,9 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 
 ## Volunteer items:
 * [Howard County 20 minute cleanup](https://livegreenhoward.com/recycling-waste/litter-cleanups/) Led this and many Earth Day Events. Most recently, Onyx Point [2018](https://livegreenhoward.com/wp-content/uploads/2018/05/2018-updatedTY-list-for-website.pdf) - [photo](https://twitter.com/onyxpoint/status/987378243077656578?s=20) and [2019](https://livegreenhoward.com/wp-content/uploads/2019/06/2019-TY-list-for-website.pdf) - [photo](https://www.flickr.com/photos/livegreenhoward/40890630973/in/album-72157707104911601/) 
+* Howard County Volunteer Projects
+  * Backpacks for school 21 August 2018, 20 August 2019, 17 August 2021 
+  * Santa's Secret Shop 12/5/2021
 * Piney Run Park Cleanups- sponsored by EITR and Carroll County Equestrian Council
   * [April 17 2021](https://www.facebook.com/113483236763072/photos/a.119106552867407/483650476413011/)
   * [June 19 2021](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/3830488620394168/)
@@ -91,6 +95,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Bowie High School - Inaugural Research Symposium 9 April 2019
   * Bowie High School - Science Fair 4 February 2020
   * Bowie High School - Science Fair 3 February 2021
+  * Bowie High School - Science Fair (Coming Soon! 1 February 2022)
+
 * [RPI](https://rpi.edu) college fairs, multiple years
 * [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Mentorship 2019-20, 2020-21
 * [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Networking events
@@ -109,6 +115,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Robotics Competition Judge 3 March 2019 (UMBC Retriever Center, 1000 Hilltop Circle, Baltimore, MD 21250)
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
   * Robotics Competition Judge 23 February 2020 (UMBC)
+  * FIRST Tech Challenge Dean's List Interview Day 22/23 January 2022
 * [Future City](https://futurecity.org/about-the-competition) Judge March 2021
 * [TechGirlz](https://www.techgirlz.org/) 
   * TechGirlz - Organized and taught Class - 9 February 2019 (Game Design)
@@ -124,6 +131,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/TechGirlzorg/status/1378367449373024256?s=20) 6 April 2021
   * TechGirlz - Taught [Internet Safety](https://twitter.com/TechGirlzorg/status/1379525582036340737?s=20) 13 April 2021 
   * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/miz_j/status/1443372317799747585?s=20) 5 October 2021
+  * TechGirlz - Co-presenting on Resumes and Interviews for Teen Advisory Board (Coming 24 January 2022)
 
 * [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - Committee 
 * [DevOps Columbia Meetup](https://www.meetup.com/devops-columbia/) Co-organizer
