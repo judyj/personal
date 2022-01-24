@@ -83,6 +83,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Piney Run Park Cleanups- sponsored by EITR and Carroll County Equestrian Council
   * [April 17 2021](https://www.facebook.com/113483236763072/photos/a.119106552867407/483650476413011/)
   * [June 19 2021](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/3830488620394168/)
+  * August 27 2021
+  * October 22 2021
 * [Lockerman Bundy Elementary School](https://www.baltimorecityschools.org/schools/261)
   * Yearbooks with kids, media volunteer, random art projects 1999-2010
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
