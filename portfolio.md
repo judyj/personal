@@ -133,7 +133,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/TechGirlzorg/status/1378367449373024256?s=20) 6 April 2021
   * TechGirlz - Taught [Internet Safety](https://twitter.com/TechGirlzorg/status/1379525582036340737?s=20) 13 April 2021 
   * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/miz_j/status/1443372317799747585?s=20) 5 October 2021
-  * TechGirlz - Co-presenting on Resumes and Interviews for Teen Advisory Board (Coming 24 January 2022)
+  * TechGirlz - Co-presented for Teen Advisory Board [Introductory lesson on resumes and interviews](https://www.slideshare.net/judyfinkjohnson/introductory-lesson-on-resumes-and-interviews) 24 January 2022
 
 * [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - Committee 
 * [DevOps Columbia Meetup](https://www.meetup.com/devops-columbia/) Co-organizer
