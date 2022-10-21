@@ -113,6 +113,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Fall 2020 (online)
   * Spring 2021 (online)
   * Fall 2021 (online)
+  * Spring 2022 (online)
+  * Fall 2022
 * [FIRST Robotics](https://www.firstinspires.org/robotics/frc)
   * Robotics Competition Judge 3 March 2019 (UMBC Retriever Center, 1000 Hilltop Circle, Baltimore, MD 21250)
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
