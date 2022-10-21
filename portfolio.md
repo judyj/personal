@@ -12,6 +12,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 
 ## Bio:
 * [LinkedIn](https://www.linkedin.com/in/judyfinkjohnson/)
+* [Twitter](https://twitter.com/miz_j)
 * Computer Science Degree RPI [Rensselaer Polytechnic Institute](https://rpi.edu/)
 * Software engineer for [many] years - SatCom, Digital Signal Processing, Hardware control, security framework
 * [EITR Technologies](https://eitr.tech/) since 2021. 
