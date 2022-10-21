@@ -121,6 +121,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
   * Robotics Competition Judge 23 February 2020 (UMBC)
   * FIRST Tech Challenge Dean's List Interview Day 22/23 January 2022
+  * FIRST Tech Challenge Judging 6 February 2022
 * [Future City](https://futurecity.org/about-the-competition) Judge March 2021
 * [TechGirlz](https://www.techgirlz.org/) 
   * TechGirlz - Organized and taught Class - 9 February 2019 (Game Design)
@@ -137,6 +138,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * TechGirlz - Taught [Internet Safety](https://twitter.com/TechGirlzorg/status/1379525582036340737?s=20) 13 April 2021 
   * TechGirlz - Taught [Virtual Techgirlz workshop: Build Your Own Voice App with VoiceFlow](https://twitter.com/miz_j/status/1443372317799747585?s=20) 5 October 2021
   * TechGirlz - Co-presented for Teen Advisory Board [Introductory lesson on resumes and interviews](https://www.slideshare.net/judyfinkjohnson/introductory-lesson-on-resumes-and-interviews) 24 January 2022
+  * TechGirlz -  Organized and taught Internet Safety class 24 February 2022
 
 * [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - Committee 
 * [DevOps Columbia Meetup](https://www.meetup.com/devops-columbia/) Co-organizer
