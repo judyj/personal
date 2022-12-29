@@ -77,7 +77,10 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * [7 Pieces of Bad Advice for Women in Engineering Leadership](https://devinterrupted.com/7-pieces-of-bad-advice-for-women-in-engineering-leadership/) August 2021
 
 ## Volunteer items:
-* [Howard County 20 minute cleanup](https://livegreenhoward.com/recycling-waste/litter-cleanups/) Led this and many Earth Day Events. Most recently, Onyx Point [2018](https://livegreenhoward.com/wp-content/uploads/2018/05/2018-updatedTY-list-for-website.pdf) - [photo](https://twitter.com/onyxpoint/status/987378243077656578?s=20) and [2019](https://livegreenhoward.com/wp-content/uploads/2019/06/2019-TY-list-for-website.pdf) - [photo](https://www.flickr.com/photos/livegreenhoward/40890630973/in/album-72157707104911601/) 
+* [Howard County 20 minute cleanup](https://livegreenhoward.com/recycling-waste/litter-cleanups/) Led this and many Earth Day Events. 
+  * Onyx Point [2018](https://livegreenhoward.com/wp-content/uploads/2018/05/2018-updatedTY-list-for-website.pdf) - [photo](https://twitter.com/onyxpoint/status/987378243077656578?s=20) 
+  * [2019](https://livegreenhoward.com/wp-content/uploads/2019/06/2019-TY-list-for-website.pdf) - [photo](https://www.flickr.com/photos/livegreenhoward/40890630973/in/album-72157707104911601/) 
+  * [2022](https://livegreenhoward.com/wp-content/uploads/2022/06/2022-20-Minute-Cleanup-Thank-You-List.pdf) - [photo](https://www.flickr.com/photos/livegreenhoward/albums/72177720299611412)
 * Howard County Volunteer Projects
   * Backpacks for school 21 August 2018, 20 August 2019, 17 August 2021 
   * Santa's Secret Shop 12/5/2021
@@ -86,6 +89,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * [June 19 2021](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/3830488620394168/)
   * August 27 2021
   * October 22 2021
+  * June 18 2022
+  * October 29 2022 
 * [Lockerman Bundy Elementary School](https://www.baltimorecityschools.org/schools/261)
   * Yearbooks with kids, media volunteer, random art projects 1999-2010
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
@@ -143,5 +148,5 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - Committee 
 * [DevOps Columbia Meetup](https://www.meetup.com/devops-columbia/) Co-organizer
 * [Women Who Code DC](https://www.womenwhocode.com/dc) - Volunteered at [Virtual Career Services Day](https://www.meetup.com/Women-Who-Code-DC/events/272746667/) - One-on-One meetings offering resume and career advice - 26 September 2020
-
+* [Maryland STEM Festival Girl STEM-Powerment!!](https://marylandstemfestival.org/events/girl-stem-powerment-december-10th-1-4) Assisted in Girl Scout Cybersecurity badge training 10 December 2022
 
