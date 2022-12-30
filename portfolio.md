@@ -88,7 +88,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * [April 17 2021](https://www.facebook.com/113483236763072/photos/a.119106552867407/483650476413011/)
   * [June 19 2021](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/3830488620394168/)
   * August 27 2021
-  * [October 22 2021](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/4183391788437181/)
+  * [October 16 2021](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/4183391788437181/)
   * [Recognition!](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/pcb.4309021035874255/4309004282542597/)
   * [June 18 2022](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/posts/pfbid0q3MPKYEDkJRU2i1E4JTw32daGPL2M3Xpm9U3JRsWbrHwKYusvcF6RCJtqb6cGks4l)
   * [October 29 2022](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/5223055871137429)
