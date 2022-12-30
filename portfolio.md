@@ -79,8 +79,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 ## Volunteer items:
 * [Howard County 20 minute cleanup](https://livegreenhoward.com/recycling-waste/litter-cleanups/) Led this and many Earth Day Events. 
   * Onyx Point [2018](https://livegreenhoward.com/wp-content/uploads/2018/05/2018-updatedTY-list-for-website.pdf) - [photo](https://twitter.com/onyxpoint/status/987378243077656578?s=20) 
-  * [2019](https://livegreenhoward.com/wp-content/uploads/2019/06/2019-TY-list-for-website.pdf) - [photo](https://www.flickr.com/photos/livegreenhoward/40890630973/in/album-72157707104911601/) 
-  * [2022](https://livegreenhoward.com/wp-content/uploads/2022/06/2022-20-Minute-Cleanup-Thank-You-List.pdf) - [photo](https://www.flickr.com/photos/livegreenhoward/albums/72177720299611412)
+  * Onyx Point [2019](https://livegreenhoward.com/wp-content/uploads/2019/06/2019-TY-list-for-website.pdf) - [photo](https://www.flickr.com/photos/livegreenhoward/40890630973/in/album-72157707104911601/) 
+  * With friends [2022](https://livegreenhoward.com/wp-content/uploads/2022/06/2022-20-Minute-Cleanup-Thank-You-List.pdf) - [photo](https://www.flickr.com/photos/livegreenhoward/albums/72177720299611412)
 * Howard County Volunteer Projects
   * Backpacks for school 21 August 2018, 20 August 2019, 17 August 2021 
   * Santa's Secret Shop 12/5/2021
@@ -88,9 +88,10 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * [April 17 2021](https://www.facebook.com/113483236763072/photos/a.119106552867407/483650476413011/)
   * [June 19 2021](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/3830488620394168/)
   * August 27 2021
-  * October 22 2021
-  * June 18 2022
-  * October 29 2022 
+  * [October 22 2021](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/4183391788437181/)
+  * [Recognition!](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/pcb.4309021035874255/4309004282542597/)
+  * [June 18 2022](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/posts/pfbid0q3MPKYEDkJRU2i1E4JTw32daGPL2M3Xpm9U3JRsWbrHwKYusvcF6RCJtqb6cGks4l)
+  * [October 29 2022](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/5223055871137429)
 * [Lockerman Bundy Elementary School](https://www.baltimorecityschools.org/schools/261)
   * Yearbooks with kids, media volunteer, random art projects 1999-2010
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
