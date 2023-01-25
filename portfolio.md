@@ -129,6 +129,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Robotics Competition Judge 23 February 2020 (UMBC)
   * FIRST Tech Challenge Dean's List Interview Day 22/23 January 2022
   * FIRST Tech Challenge Judging 6 February 2022
+  * FIRST Tech Challenge Dean's List Interview Day 8/14/15 January 2023
+
 * [Future City](https://futurecity.org/about-the-competition) Judge March 2021
 * [TechGirlz](https://www.techgirlz.org/) 
   * TechGirlz - Organized and taught Class - 9 February 2019 (Game Design)
