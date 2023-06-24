@@ -84,6 +84,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Howard County Volunteer Projects
   * Backpacks for school 21 August 2018, 20 August 2019, 17 August 2021 
   * Santa's Secret Shop 12/5/2021
+  * Back to School School Supplies 8/22/22
+  * Santa's Secret Shop 12/11/22
 * Piney Run Park Cleanups- sponsored by EITR and Carroll County Equestrian Council
   * [April 17 2021](https://www.facebook.com/113483236763072/photos/a.119106552867407/483650476413011/)
   * [June 19 2021](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/3830488620394168/)
@@ -130,6 +132,10 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * FIRST Tech Challenge Dean's List Interview Day 22/23 January 2022
   * FIRST Tech Challenge Judging 6 February 2022
   * FIRST Tech Challenge Dean's List Interview Day 8/14/15 January 2023
+  * FIRST Tech Challenge Dean's List Interview Day 1/8/23
+  * FIRST Tech Challenge Dean's List Interview Day 1/14/23
+  * FIRST Tech Challenge Dean's List Interview Day 1/15/23
+  * FIRST Tech Challenge Dean's List Interviews (Dulaney HS MD) 3/25/23
 
 * [Future City](https://futurecity.org/about-the-competition) Judge March 2021
 * [TechGirlz](https://www.techgirlz.org/) 
@@ -154,3 +160,6 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * [Women Who Code DC](https://www.womenwhocode.com/dc) - Volunteered at [Virtual Career Services Day](https://www.meetup.com/Women-Who-Code-DC/events/272746667/) - One-on-One meetings offering resume and career advice - 26 September 2020
 * [Maryland STEM Festival Girl STEM-Powerment!!](https://marylandstemfestival.org/events/girl-stem-powerment-december-10th-1-4) Assisted in Girl Scout Cybersecurity badge training 10 December 2022
 
+* [Connecting Women In Tech](https://inclusion.cs.umd.edu/event/2023/06/connecting-women-tech-international-womens-day-event) - [Tweet](https://twitter.com/miz_j/status/1633650168892387333?s=20) University of Maryland Break Through Tech 8 March 2023
+* [Women In Engineering](https://twitter.com/miz_j/status/1635416137025589249?s=20) Howard County High Schoool and College Students 13 March 2023
+* 
