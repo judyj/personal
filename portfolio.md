@@ -99,7 +99,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
   * [Read Across America (Quarantine Edition) Youtube](https://www.youtube.com/channel/UCGTcAHnuJcHpRd5UCYb1r8A) Started March 2021
 * [Project Lead the Way](https://www.hcpss.org/academy/engineering/) Volunteer 2017-2018-2019
-* [Northlake Middle School, IL](https://www.berkeley87.org/)Spoke with students about careers in Computer science 7 May 2021
+  * PLTW [Women In Engineering](https://twitter.com/miz_j/status/1635416137025589249?s=20) Howard County High Schoool and College Students 13 March 2023
+* [Northlake Middle School, IL](https://www.berkeley87.org/) Spoke with students about careers in Computer science 7 May 2021
 * [Atholton High School](https://ahs.hcpss.org/) Practice Interviews 2012 - present
 * [Bowie High School](https://www.pgcps.org/bowie/) 
   * Bowie High School - Career Day 2 May 2019
@@ -161,5 +162,4 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * [Maryland STEM Festival Girl STEM-Powerment!!](https://marylandstemfestival.org/events/girl-stem-powerment-december-10th-1-4) Assisted in Girl Scout Cybersecurity badge training 10 December 2022
 
 * [Connecting Women In Tech](https://inclusion.cs.umd.edu/event/2023/06/connecting-women-tech-international-womens-day-event) - [Tweet](https://twitter.com/miz_j/status/1633650168892387333?s=20) University of Maryland Break Through Tech 8 March 2023
-* [Women In Engineering](https://twitter.com/miz_j/status/1635416137025589249?s=20) Howard County High Schoool and College Students 13 March 2023
-* 
+
