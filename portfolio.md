@@ -60,6 +60,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * DZone [Community Member Campfire](https://events.cmxhub.com/events/details/cmx-research-triangle-park-presents-community-member-campfire/#/) Real-world Community: Actual community members speak on community and collaborating in these Covid times.
   * [Video](https://youtu.be/PV5-AohwfVc)   
 * Meetup Talk [What is DevOps?](https://www.meetup.com/Ellicott-City-Web-Development-Meetup/events/282995100/) 16 January 2021
+* EITR Technologies Podcast [Advice from Women In STEM](https://youtu.be/PSEwVoNHJm0) July 2023
 
 ## Blogs, Publications, Articles:
 * [The Magic of APIs](https://www.onyxpoint.com/blog/magic-of-apis/)
@@ -162,4 +163,6 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * [Maryland STEM Festival Girl STEM-Powerment!!](https://marylandstemfestival.org/events/girl-stem-powerment-december-10th-1-4) Assisted in Girl Scout Cybersecurity badge training 10 December 2022
 
 * [Connecting Women In Tech](https://inclusion.cs.umd.edu/event/2023/06/connecting-women-tech-international-womens-day-event) - [Tweet](https://twitter.com/miz_j/status/1633650168892387333?s=20) University of Maryland Break Through Tech 8 March 2023
+
+* [Break Through Tech DC  Guild Program](https://dc.breakthroughtech.org/programs/guild-umd/) - [LinkedIn](https://www.linkedin.com/posts/break-through-tech-dc_computing-undergrad-workshop-activity-7091916698869485568-h-JI?utm_source=share&utm_medium=member_desktop) University of Maryland Break Through Tech 31 July - 4 August 2023
 
