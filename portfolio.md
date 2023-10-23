@@ -75,7 +75,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 * Published in [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Cloud-Engineer-Should/dp/1492076732/) Chapter 76  "Automate or Not-o-Mate"
 * Published in [Feedback Loops](https://www.amazon.com/Feedback-Loops-Voices-All-DevOps/dp/B0892HNXKV/) Volume 2 - Chapter 37 "The Science of Compliance"
 * Part of [DZone Trend Report CI | CD](https://dzone.com/storage/assets/14886837-dzone-tr-cicd-2021.pdf) Page 58, "Automate or Not-O-Mate"
-* [7 Pieces of Bad Advice for Women in Engineering Leadership](https://devinterrupted.com/7-pieces-of-bad-advice-for-women-in-engineering-leadership/) August 2021
+* [7 Pieces of Bad Advice for Women in Engineering Leadership](https://devinterrupted.com/7-pieces-of-bad-advice-for-women-in-engineering-leadership/) LinearB, August 2021
 
 ## Volunteer items:
 * [Howard County 20 minute cleanup](https://livegreenhoward.com/recycling-waste/litter-cleanups/) Led this and many Earth Day Events. 
