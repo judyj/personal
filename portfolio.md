@@ -87,6 +87,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Santa's Secret Shop 12/5/2021
   * Back to School School Supplies 8/22/22
   * Santa's Secret Shop 12/11/22
+  * Backpacks for students 8/20/23
+  * Santa's Secret Shop 12/2/23
 * Piney Run Park Cleanups- sponsored by EITR and Carroll County Equestrian Council
   * [April 17 2021](https://www.facebook.com/113483236763072/photos/a.119106552867407/483650476413011/)
   * [June 19 2021](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/3830488620394168/)
@@ -95,6 +97,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * [Recognition!](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/pcb.4309021035874255/4309004282542597/)
   * [June 18 2022](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/posts/pfbid0q3MPKYEDkJRU2i1E4JTw32daGPL2M3Xpm9U3JRsWbrHwKYusvcF6RCJtqb6cGks4l)
   * [October 29 2022](https://www.facebook.com/CarrollCountyEquestrianCouncilAndCenter/photos/a.341332005976531/5223055871137429)
+  * [April 22 2023](https://www.linkedin.com/feed/update/urn:li:activity:7056455770476843008)
+  * [October 29 2023](https://www.facebook.com/photo/?fbid=10230075548169464&set=pcb.10230075553209590)
 * [Lockerman Bundy Elementary School](https://www.baltimorecityschools.org/schools/261)
   * Yearbooks with kids, media volunteer, random art projects 1999-2010
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
@@ -109,7 +113,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Bowie High School - Science Fair 4 February 2020
   * Bowie High School - Science Fair 3 February 2021
   * Bowie High School - Science Fair 1 February 2022
-  * Bowie High School - Science Fair 24 January 2023
+  * Bowie High School - STEM Fair 24 January 2023
+  * Bowie High School - Science Fair 24 January 2024
 
 * [RPI](https://rpi.edu) college fairs, multiple years
 * [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Mentorship 2019-20, 2020-21
@@ -127,6 +132,10 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Fall 2021 (online)
   * Spring 2022 (online)
   * Fall 2022
+  * Spring 2023
+  * Fall 2023
+* [University of Maryland College Park]{https://eng.umd.edu/women/current-students/communities/flexus)
+  * Guild (Online with Incoming Students) 31 July - 4 August
 * [FIRST Robotics](https://www.firstinspires.org/robotics/frc)
   * Robotics Competition Judge 3 March 2019 (UMBC Retriever Center, 1000 Hilltop Circle, Baltimore, MD 21250)
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
