@@ -103,10 +103,14 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Yearbooks with kids, media volunteer, random art projects 1999-2010
   * Volunteer 1-2 times/ year since then (read to kids, art projects)
   * [Read Across America (Quarantine Edition) Youtube](https://www.youtube.com/channel/UCGTcAHnuJcHpRd5UCYb1r8A) Started March 2021
+    
 * [Project Lead the Way](https://www.hcpss.org/academy/engineering/) Volunteer 2017-2018-2019
   * PLTW [Women In Engineering](https://twitter.com/miz_j/status/1635416137025589249?s=20) Howard County High Schoool and College Students 13 March 2023
+  * PLTW [Women In Engineering](https://www.instagram.com/p/C0XNlXDJ0UC/) Howard County High Schoool and College Students 1 December 2023
+    
 * [Northlake Middle School, IL](https://www.berkeley87.org/) Spoke with students about careers in Computer science 7 May 2021
 * [Atholton High School](https://ahs.hcpss.org/) Practice Interviews 2012 - present
+  
 * [Bowie High School](https://www.pgcps.org/bowie/) 
   * Bowie High School - Career Day 2 May 2019
   * Bowie High School - Inaugural Research Symposium 9 April 2019
@@ -117,6 +121,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Bowie High School - Science Fair 24 January 2024
 
 * [RPI](https://rpi.edu) college fairs, multiple years
+  
 * [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/)
   * Mentorship 2019-20, 2020-21, 2021-22, 2023-24
   * ICWIT & Cyber Scholar Interviewer 24 February 2024 
@@ -136,10 +141,13 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
     * Fall 2022
     * Spring 2023
     * Fall 2023
+      
 * [University of Maryland College Park Break Through Tech](https://inclusion.cs.umd.edu/breakthroughtech)
-  * [Guild (Online with Incoming Students)](https://www.linkedin.com/posts/break-through-tech-dc_computing-tech-bootcamp-activity-7097665286429937664-vifd?utm_source=share&utm_medium=member_desktop) 31 July - 4 August 2023
-  * [Connecting Women In Tech](https://www.linkedin.com/posts/break-through-tech-dc_internationalwomensday-womenintech-genderequality-activity-7040039963748356097) 8 March 2023
+  * [Break Through Tech DC  Guild Program](https://dc.breakthroughtech.org/programs/guild-umd/) - [LinkedIn](https://www.linkedin.com/posts/break-through-tech-dc_computing-tech-bootcamp-activity-7097665286429937664-vifd?utm_source=share&utm_medium=member_desktop)) University of Maryland Break Through Tech 31 July - 4 August 2023   University of Maryland Break Through Tech 8 March 2023
+  * [Connecting Women In Tech](https://www.linkedin.com/posts/break-through-tech-dc_internationalwomensday-womenintech-genderequality-activity-7040039963748356097-D1RN/?utm_source=share&utm_medium=member_desktop) - [Tweet](https://twitter.com/miz_j/status/1633650168892387333?s=20) 8 March 2023
   * [Connecting Women In Tech](https://www.linkedin.com/feed/update/urn:li:activity:7169475008489074688/)  1 March 2024
+     
+    
 * [FIRST Robotics](https://www.firstinspires.org/robotics/frc)
   * Robotics Competition Judge 3 March 2019 (UMBC Retriever Center, 1000 Hilltop Circle, Baltimore, MD 21250)
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
@@ -153,6 +161,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * FIRST Tech Challenge Dean's List Interviews (Dulaney HS MD) 3/25/23
 
 * [Future City](https://futurecity.org/about-the-competition) Judge March 2021
+  
 * [TechGirlz](https://www.techgirlz.org/) 
   * TechGirlz - Organized and taught Class - 9 February 2019 (Game Design)
   * TechGirlz - Organized and taught Class - 30 March 2019 (Web Page Design)
@@ -172,10 +181,8 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
 
 * [DevOps95](https://docs.google.com/document/d/1eIpOC0-K0IFdYuZAvErKgYo14PoGrHaCyUPdYqJCUj0/preview) - Online all day DevOps meetups - Committee 
 * [DevOps Columbia Meetup](https://www.meetup.com/devops-columbia/) Co-organizer
+  
 * [Women Who Code DC](https://www.womenwhocode.com/dc) - Volunteered at [Virtual Career Services Day](https://www.meetup.com/Women-Who-Code-DC/events/272746667/) - One-on-One meetings offering resume and career advice - 26 September 2020
+  
 * [Maryland STEM Festival Girl STEM-Powerment!!](https://marylandstemfestival.org/events/girl-stem-powerment-december-10th-1-4) Assisted in Girl Scout Cybersecurity badge training 10 December 2022
-
-* [Connecting Women In Tech](https://inclusion.cs.umd.edu/event/2023/06/connecting-women-tech-international-womens-day-event) - [Tweet](https://twitter.com/miz_j/status/1633650168892387333?s=20) University of Maryland Break Through Tech 8 March 2023
-
-* [Break Through Tech DC  Guild Program](https://dc.breakthroughtech.org/programs/guild-umd/) - [LinkedIn](https://www.linkedin.com/posts/break-through-tech-dc_computing-undergrad-workshop-activity-7091916698869485568-h-JI?utm_source=share&utm_medium=member_desktop) University of Maryland Break Through Tech 31 July - 4 August 2023
 
