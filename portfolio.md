@@ -117,25 +117,29 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Bowie High School - Science Fair 24 January 2024
 
 * [RPI](https://rpi.edu) college fairs, multiple years
-* [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Mentorship 2019-20, 2020-21
-* [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/) Networking events
-  * Fall 2016 
-  * Spring 2017
-  * Fall 2017
-  * Spring 2018
-  * Fall 2018
-  * Spring 2019
-  * Fall 2019
-  * Spring 2020 (online)
-  * Fall 2020 (online)
-  * Spring 2021 (online)
-  * Fall 2021 (online)
-  * Spring 2022 (online)
-  * Fall 2022
-  * Spring 2023
-  * Fall 2023
-* [University of Maryland College Park]{https://eng.umd.edu/women/current-students/communities/flexus)
-  * Guild (Online with Incoming Students) 31 July - 4 August
+* [UMBC Center for Women in Technology](https://cwit.umbc.edu/cwitscholars/)
+  * Mentorship 2019-20, 2020-21, 2021-22, 2023-24
+  * ICWIT & Cyber Scholar Interviewer 24 February 2024 
+  * Networking events
+    * Fall 2016 
+    * Spring 2017
+    * Fall 2017
+    * Spring 2018
+    * Fall 2018
+    * Spring 2019
+    * Fall 2019
+    * Spring 2020 (online)
+    * Fall 2020 (online)
+    * Spring 2021 (online)
+    * Fall 2021 (online)
+    * Spring 2022 (online)
+    * Fall 2022
+    * Spring 2023
+    * Fall 2023
+* [University of Maryland College Park Break Through Tech](https://inclusion.cs.umd.edu/breakthroughtech)
+  * [Guild (Online with Incoming Students)](https://www.linkedin.com/posts/break-through-tech-dc_computing-tech-bootcamp-activity-7097665286429937664-vifd?utm_source=share&utm_medium=member_desktop) 31 July - 4 August 2023
+  * [Connecting Women In Tech](https://www.linkedin.com/posts/break-through-tech-dc_internationalwomensday-womenintech-genderequality-activity-7040039963748356097) 8 March 2023
+  * [Connecting Women In Tech](https://www.linkedin.com/feed/update/urn:li:activity:7169475008489074688/)  1 March 2024
 * [FIRST Robotics](https://www.firstinspires.org/robotics/frc)
   * Robotics Competition Judge 3 March 2019 (UMBC Retriever Center, 1000 Hilltop Circle, Baltimore, MD 21250)
   * FIRST Tech Challenge Dean's List Interview Day 1 February 2020
