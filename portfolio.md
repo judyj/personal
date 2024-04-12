@@ -141,6 +141,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
     * Fall 2022
     * Spring 2023
     * Fall 2023
+    * Spring 2024 [Spring Into Leadership](https://www.linkedin.com/posts/cindygreenwood_thank-you-so-much-to-tina-williams-koroma-activity-7181331007491469312-3ubA?utm_source=share&utm_medium=member_desktop)
       
 * [University of Maryland College Park Break Through Tech](https://inclusion.cs.umd.edu/breakthroughtech)
   * [Break Through Tech DC  Guild Program](https://dc.breakthroughtech.org/programs/guild-umd/) - [LinkedIn](https://www.linkedin.com/posts/break-through-tech-dc_computing-tech-bootcamp-activity-7097665286429937664-vifd?utm_source=share&utm_medium=member_desktop)) University of Maryland Break Through Tech 31 July - 4 August 2023   University of Maryland Break Through Tech 8 March 2023
