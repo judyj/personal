@@ -30,10 +30,10 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * Navigating Career Success (Judy Johnson, Brian Curley, Angel Plane)
   * One of three panelists from 3 different stages in our careers working with attendees "to learn must-do tips for a successful career in computing as a minority in the field."
 * Career Panel - [Project Lead The Way](https://www.hcpss.org/academy/engineering/) - 22 February 2019
-* DevOpsDays DC - ["How to Automate Yourself out of a Job"](https://devopsdaysdc2019.busyconf.com/schedule#activity_5cc39ad2426e88c873000008) 9 July 2019
+* DevOpsDays DC - "How to Automate Yourself out of a Job" 9 July 2019
   * [Video](https://youtu.be/cLVzFQNCFtE)  
   * [Slides](https://drive.google.com/file/d/1CDy-y0zVWiznCXEwCDvXYodQ96_-OAeR/view?usp=sharing) 
-  * [Shared by Pager Duty -Automation Week/30 Days of DevOps](https://pagerduty.influitive.com/forum/t/automation-week/2228)
+  * Shared by Pager Duty -Automation Week/30 Days of DevOps
 * [DevOps Columbia Meetup](https://www.meetup.com/devops-columbia/events/lrppqqyzhbfc/) 23 May 2019
   * [Slides](https://drive.google.com/file/d/0B3VjMpptCFN1VDhLODJHemJtWExfN1U0NmpKX2hMNkQyQVZB/view?usp=sharing) 
 * AllDayDevOps - ["The Science of Compliance - Early Code to Secure your Node"](https://www.alldaydevops.com/ondemand-recordings-2019) 6 November 2019
@@ -46,7 +46,7 @@ Proof of her dedication to this cause is the fact that _both of her awesome daug
   * [Video](https://youtu.be/qkp1N94iDs4)
 * Intro to Devops - [UNC Black in Technology](https://heellife.unc.edu/organization/bit) 28 October 2020
 * Agile & DevOps Summit Virtual (TechWell) - [Automation Justification](https://agiledevopseast.techwell.com/program/concurrent-sessions/automation-justification-agile-devops-virtual-2020) 11 November 2020
-  * [Slides](https://www2.slideshare.net/judyfinkjohnson/automation-justification/judyfinkjohnson/automation-justification)
+  * [Slides](https://www.slideshare.net/judyfinkjohnson/automation-justification)
   * [Video](https://youtu.be/ybiVqpDUQU4)
   * [Article](https://dzone.com/articles/automation-justification)
 * Agile & DevOps Summit (DevSecOps Summit) Virtual (TechWell) - [The Science of Compliance](https://agiledevopseast.techwell.com/program/devsecops-summit-sessions/science-compliance-early-code-secure-your-node-agile-devops-virtual-2020) 18 November 2020
